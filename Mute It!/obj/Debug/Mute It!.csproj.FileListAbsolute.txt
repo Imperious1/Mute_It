@@ -1,0 +1,9 @@
+c:\users\blaze\documents\visual studio 2015\Projects\Mute It!\Mute It!\bin\Debug\Mute It!.exe.config
+c:\users\blaze\documents\visual studio 2015\Projects\Mute It!\Mute It!\bin\Debug\Mute It!.exe
+c:\users\blaze\documents\visual studio 2015\Projects\Mute It!\Mute It!\bin\Debug\Mute It!.pdb
+c:\users\blaze\documents\visual studio 2015\Projects\Mute It!\Mute It!\obj\Debug\Mute It!.csprojResolveAssemblyReference.cache
+c:\users\blaze\documents\visual studio 2015\Projects\Mute It!\Mute It!\obj\Debug\Mute_It_.Form1.resources
+c:\users\blaze\documents\visual studio 2015\Projects\Mute It!\Mute It!\obj\Debug\Mute_It_.Properties.Resources.resources
+c:\users\blaze\documents\visual studio 2015\Projects\Mute It!\Mute It!\obj\Debug\Mute It!.csproj.GenerateResource.Cache
+c:\users\blaze\documents\visual studio 2015\Projects\Mute It!\Mute It!\obj\Debug\Mute It!.exe
+c:\users\blaze\documents\visual studio 2015\Projects\Mute It!\Mute It!\obj\Debug\Mute It!.pdb
